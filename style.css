@@ -5,6 +5,8 @@ body{
     height: 100vh;
     margin: 0%;
     background-color: #222;
+    font-family: 'Montserrat', sans-serif;
+    background-image: url('https://wallpaperaccess.com/full/1540037.jpg');
 }
 
 .card{
@@ -13,4 +15,6 @@ body{
     border-radius: 30px;
     width: 100%;
     max-width: 420px;
+    margin: 1em;
 }
+
